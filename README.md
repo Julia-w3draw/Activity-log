@@ -18,3 +18,6 @@ On accessing index.php data from the Navigator object is sent via GET to the ser
 	
 
 The data chosen by me is: Date, Client IP,  Platform width, Platform height, Screen width, Screen height, Hostname, Platform, Browser name, Browser App Version, Browser language.
+
+
+To view the output access in webbrowser 'yourProject'/LOG/show_log.php
